@@ -88,7 +88,10 @@ O tutorial completo dessa ferramenta se encontra em => https://zonamestre.blogsp
                 read SEGUE
             ;;
         3)
-                echo -e '\033[1;32mEste Script foi desenvolvido pelo Gabriel Kelzer. O intuito dele foi criar um software para proteger os membros da comunidade ! se você quiser entrar em contato acesse: https//:zonamestre.blogspot.com'
+                echo -e '\033[1;32mEste Script foi desenvolvido pelo Gabriel Kelzer. O intuito dele foi criar um software para proteger os membros da comunidade ! se você quiser entrar em contato acesse: https//:zonamestre.blogspot.com \033[0m'
+                echo
+                echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
+                read SEGUE                
             ;;
     esac
 #abaixo o fim do enquanto do menu principal
