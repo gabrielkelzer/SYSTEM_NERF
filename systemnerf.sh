@@ -18,7 +18,7 @@ echo -e ' \033[1;36m
                    ▀███▄
                       ▀▀ \033[0m \033[1;33m
              SYSTEM NERF V1
-      SOFTWARE DA COMUNIDADE SPEATEC\033[0m
+      SOFTWARE DA COMUNIDADE KELZER\033[0m
 
       \033[1;34m[\033[0m\033[1;31m1\033[0m\033[1;34m] \033[0m\033[1;31mAtivar \033[0m
       \033[1;34m[\033[0m\033[1;31m2\033[0m\033[1;34m]\033[0m\033[1;31m Manual \033[0m
@@ -78,11 +78,11 @@ Este programa em texto serve para enfraquecer os ataques de trava zaps, ou seja 
 
 Pra quem não sabe o "Trava Zap" é conhecido popularmente como uma mensagem com uma série de códigos aleatórios que, combinados, podem congelar o WhatsApp do destinatário repetidas vezes. A solução mais comum ao receber um Trava Zap é desinstalar o aplicativo do celular e reinstalá-lo novamente, o que pode resultar na perda do histórico de mensagens e de informações importantes armazenadas no celular.
 
-O criador desta ferramenta é o Gabriel Kelzer, ele criou a mesma para uma comunidade aeroespacial. Vale destacar que, esse script só funciona no Termux. 
+O criador desta ferramenta é o Gabriel Kelzer, ele criou a mesma para uma comunidade(kelzercomunity). Vale destacar que, esse script só funciona no Termux. 
 
 Para baixar o Termux é só acessar o site do f-droid.
 
-O tutorial completo dessa ferramenta se encontra em => https://zonamestre.blogspot.com/p/area-de-inteligencia-da-speatec.html?m=1 \033[0m'
+O tutorial completo dessa ferramenta se encontra no canal do youtube @kelzercomunity \033[0m'
                 echo
                 echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
                 read SEGUE
