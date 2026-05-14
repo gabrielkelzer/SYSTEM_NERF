@@ -1,7 +1,7 @@
 # SYSTEM NERF V1
 
 <p align="center">
-  <img src="https://i.imgur.com/placeholder.png" width="700">
+  <img src="https://github.com/gabrielkelzer/SYSTEM_NERF/blob/main/file_000000003a8071fb9b858e7063354e05.png" width="700">
 </p>
 
 ## 📖 SOBRE O SOFTWARE
